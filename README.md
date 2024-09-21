@@ -1,3 +1,3 @@
 # Dynamic-programing
 
-Bu repositorydə Dinamik proqramlaşdırma nədir, yaxinlaşmalar və nümunələr qeyd olunub.
+Bu repositoridə Dinamik proqramlaşdırma nədir, yanaşmalar və nümunələr var.
